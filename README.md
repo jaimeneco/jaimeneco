@@ -42,10 +42,9 @@ Marketplace de segunda mano donde los usuarios pueden **comprar o alquilar artí
 
 `React` `Node.js` `Express` `MongoDB`
 
-[![Github Front-end](https://img.shields.io/badge/GitHub-Front-end-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/Frontend-ProyectoFS-JaimeNebot)
-[![GitHub Back-end](https://img.shields.io/badge/GitHub-Back-end-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/Backend-ProyectoFS-JaimeNebot)
-[![Demo](https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-proyecto-fs-jaime-nebot.vercel.app/)
-
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/Frontend-ProyectoFS-JaimeNebot)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/Backend-ProyectoFS-JaimeNebot)
+[![Demo](https://img.shields.io/badge/Demo_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-proyecto-fs-jaime-nebot.vercel.app/)
 ---
 
 ### ✂️ La [2] Silla
