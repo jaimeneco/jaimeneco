@@ -8,7 +8,7 @@ Creo en el código limpio, los componentes escalables y los productos que se ven
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías:
 
 **Frontend**
 
@@ -35,10 +35,10 @@ Creo en el código limpio, los componentes escalables y los productos que se ven
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados:
 
-### 🛍️ ONPIK
-Marketplace de segunda mano donde los usuarios pueden **comprar o alquilar artículos por días**. Proyecto full stack con desarrollo completo de frontend y backend.
+### 🏔️ ONPIK 🏔️
+ONPIK es una aplicación web completa para el alquiler y venta de equipamiento deportivo de montaña y mar, desarrollada desde cero con arquitectura separada de Frontend y Backend.
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -47,17 +47,27 @@ Marketplace de segunda mano donde los usuarios pueden **comprar o alquilar artí
 [![Demo](https://img.shields.io/badge/Demo_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-proyecto-fs-jaime-nebot.vercel.app/)
 ---
 
-### ✂️ La [2] Silla
-Web para una peluquería local con **sistema de reservas integrado y panel de administración** para gestionar citas. Proyecto real para un negocio local.
+### ✂️ La [2] Silla ✂️
+Desarrollamos una Single Page Application con animaciones fluidas, diseño responsive y un sistema de reservas integrado y accesible las 24 horas. La web está construida sin librerías de UI ni frameworks de animación externos, apostando por CSS nativo y rendimiento real.
 
 `React` `CSS` `G-SAP`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/peluqueria-la-silla-2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaumeEsquerdo/peluqueria-la-silla-2)
 [![Demo](https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://la-2-silla.vercel.app/)
+---
+
+### 👽 Rick and Morty 👽
+Aplicación web para explorar el universo de Rick and Morty a través de su API pública. Rick & Morty Explorer es una SPA desarrollada como ejercicio de consumo de APIs REST públicas y gestión de estado en React. El objetivo era construir una interfaz funcional, rápida y visualmente coherente con el universo de la serie, que permitiera al usuario explorar tres de los recursos principales que expone la [Rick and Morty API](https://rickandmortyapi.com/): personajes, localizaciones y episodios.
+
+`React` `CSS` `HTML`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/Actividad5-FS-RickAndMorty)
+[![Demo](https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://actividad5-fs-rick-and-morty-git-main-jaimes-projects-7e668735.vercel.app/)
+
 
 ---
 
-## 🌍 Idiomas
+## Idiomas:
 
 - 🇪🇸 Español — Nativo
 - 🏳️ Catalán — Nativo (JQCV C1)
@@ -65,7 +75,7 @@ Web para una peluquería local con **sistema de reservas integrado y panel de ad
 
 ---
 
-## 📬 Contacto
+## Contacto:
 
 Estoy buscando nuevas oportunidades laborales, ¿hablamos? 😄🚀
 
