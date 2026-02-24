@@ -50,7 +50,7 @@ Marketplace de segunda mano donde los usuarios pueden **comprar o alquilar artí
 ### ✂️ La [2] Silla
 Web para una peluquería local con **sistema de reservas integrado y panel de administración** para gestionar citas. Proyecto real para un negocio local.
 
-`Next.js` `Tailwind CSS` `MongoDB`
+`React` `CSS` `G-SAP`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/peluqueria-la-silla-2)
 [![Demo](https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://la-2-silla.vercel.app/)
