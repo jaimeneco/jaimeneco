@@ -2,7 +2,7 @@
 
 Soy **Desarrollador Frontend Junior** especializado en el stack **MERN** y **Next.js**, con una fuerte sensibilidad por el diseño gráfico y la experiencia de usuario.
 
-Mi background en publicidad y diseño me permite ir más allá del código: entiendo al usuario, cuido la estética y transformo prototipos en experiencias interactivas y funcionales. He trabajado recientemente en producción digital para clientes como **Ford, Iberdrola o CaixaBank** en Hogarth/WPP Production, lo que me ha dado una visión real de cómo se trabaja en entornos profesionales de alto nivel.
+Mi background en publicidad y diseño me permite ir más allá del código: entiendo al usuario, cuido la estética y transformo prototipos en experiencias interactivas y funcionales. He trabajado en producción digital para clientes como **Ford, Iberdrola o CaixaBank** en Hogarth/WPP, lo que me ha dado una visión real de cómo se trabaja en entornos profesionales de alto nivel.
 
 Creo en el código limpio, los componentes escalables y los productos que se ven tan bien como funcionan.
 
@@ -29,6 +29,7 @@ Creo en el código limpio, los componentes escalables y los productos que se ven
 
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-3000FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
@@ -36,31 +37,38 @@ Creo en el código limpio, los componentes escalables y los productos que se ven
 
 ## 🚀 Proyectos destacados
 
-### 🛍️ [ONPIK](https://github.com/tu-usuario/onpik)
+### 🛍️ ONPIK
 Marketplace de segunda mano donde los usuarios pueden **comprar o alquilar artículos por días**. Proyecto full stack con desarrollo completo de frontend y backend.
 
 `React` `Node.js` `Express` `MongoDB`
 
+[![Github Front-end](https://img.shields.io/badge/GitHub-Front-end-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/Frontend-ProyectoFS-JaimeNebot)
+[![GitHub Back-end](https://img.shields.io/badge/GitHub-Back-end-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/Backend-ProyectoFS-JaimeNebot)
+[![Demo](https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-proyecto-fs-jaime-nebot.vercel.app/)
+
 ---
 
-### ✂️ [La [2] Silla](https://github.com/tu-usuario/la-2-silla)
+### ✂️ La [2] Silla
 Web para una peluquería local con **sistema de reservas integrado y panel de administración** para gestionar citas. Proyecto real para un negocio local.
 
 `Next.js` `Tailwind CSS` `MongoDB`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimeneco/peluqueria-la-silla-2)
+[![Demo](https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://la-2-silla.vercel.app/)
 
 ---
 
 ## 🌍 Idiomas
 
 - 🇪🇸 Español — Nativo
-- 🏳️ Catalán — Nativo 
+- 🏳️ Catalán — Nativo (JQCV C1)
 - 🇬🇧 Inglés — Competencia profesional (FCE B2)
 
 ---
 
 ## 📬 Contacto
 
-¿Tienes un proyecto en mente o quieres hablar sobre una oportunidad? ¡Escríbeme!
+Estoy buscando nuevas oportunidades laborales, ¿hablamos? 😄🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-nebot-54132419b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://web-jaime-nebot-git-main-jaimes-projects-7e668735.vercel.app/)
