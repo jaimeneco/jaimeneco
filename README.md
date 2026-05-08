@@ -1,10 +1,10 @@
 # ¡Muy buenas! Soy Jaime Nebot 👋
 
-Perfil con experiencia en tecnología y negocio, combinando **desarrollo web (stack MERN) y venta de soluciones SaaS**. Me caracterizo por un enfoque analítico y orientado a resolver problemas.
+Perfil con experiencia en tecnología y negocio, combinando **desarrollo web (stack MERN) y soluciones digitales**. Me caracterizo por un enfoque analítico y orientado a resolver problemas.
 
-He trabajado directamente con clientes B2B y B2C, entendiendo sus necesidades y proponiendo soluciones digitales adaptadas, lo que me ha dado una visión práctica de cómo la tecnología impacta en procesos y resultados. Interesado en consultoría en transformación digital, donde puedo aportar tanto en la parte técnica como en la comprensión del cliente y del negocio.
+He trabajado directamente con clientes B2B y B2C, entendiendo sus necesidades y proponiendo soluciones digitales adaptadas, lo que me ha dado una visión práctica de cómo la tecnología impacta en procesos y resultados. Mi background en publicidad me permite ir más allá: entiendo al usuario, cuido la estética y transformo prototipos en experiencias interactivas y funcionales de negocio. He trabajado en producción digital para clientes como **Ford, Iberdrola o CaixaBank** en WPP Production, lo que me ha dado una visión real de cómo se trabaja en entornos profesionales de alto nivel.
 
-Mi background en publicidad me permite ir más allá: entiendo al usuario, cuido la estética y transformo prototipos en experiencias interactivas y funcionales de negocio. He trabajado en producción digital para clientes como **Ford, Iberdrola o CaixaBank** en WPP Production, lo que me ha dado una visión real de cómo se trabaja en entornos profesionales de alto nivel.
+Interesado en la consultoría digital, aporto una visión técnica combinada con una buena comprensión de las necesidades del cliente y del negocio.
 
 ---
 
